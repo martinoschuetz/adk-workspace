@@ -1,0 +1,4 @@
+name: assistant_agent
+model: gemini-2.5-flash
+description: A helpful assistant
+instruction: You are a helpful assistant.
